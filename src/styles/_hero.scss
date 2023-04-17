@@ -1,0 +1,23 @@
+.hero {
+    padding: 5.6vw;
+    min-height: 80vh;
+    background-image: url(../img/naruto_capa2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+    &__content {
+        max-width: 640px;
+}
+
+h3 {
+    color: rgb(247, 241, 241);
+    font-size: 30px;
+}
+
+p {
+    color: rgb(24, 19, 19);
+    font-size: 25px;
+}
+}
